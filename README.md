@@ -1,2 +1,2 @@
 # -DARK-AI
-DARK AI – Your Personal AI Assistant powered by Google Gemini. Created by Aditya. Ask anything, learn, code and explore.
+DARK AI – Your Personal AI Assistant powered by Google Gemini. Created by Aditya. Ask anything, learn, hacks and gamechets.
